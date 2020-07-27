@@ -1,0 +1,17 @@
+{
+  "name": "week5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "triangle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^8.0.1"
+  }
+}
