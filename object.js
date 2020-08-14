@@ -7,15 +7,17 @@ var blackPrivilege = {
     seller: "Amazon",
     buyNow: "17.99"
 
-}
 
     learnMore : function (){
         return this.name + this.genre + this.shortDescription;
     }
-}
+
 
     buyNow : function (){
         return this.price + this.seller;
+    
+        }
+
     }
 }
 
