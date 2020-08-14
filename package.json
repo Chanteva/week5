@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "faker": "^4.1.0",
     "mocha": "^8.0.1",
     "random-profile-generator": "^2.3.0"
   }
