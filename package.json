@@ -1,7 +1,7 @@
 {
   "name": "week5",
   "version": "1.0.0",
-  "description": "",
+  "description": "gitnore",
   "main": "triangle.js",
   "directories": {
     "test": "test"
@@ -15,5 +15,15 @@
     "faker": "^4.1.0",
     "mocha": "^8.0.1",
     "random-profile-generator": "^2.3.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chanteva/week5.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Chanteva/week5/issues"
+  },
+  "homepage": "https://github.com/Chanteva/week5#readme"
 }
